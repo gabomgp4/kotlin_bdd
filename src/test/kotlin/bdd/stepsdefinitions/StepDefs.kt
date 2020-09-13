@@ -1,4 +1,4 @@
-package bdd
+package bdd.stepsdefinitions
 
 import io.cucumber.java8.En
 import io.cucumber.java8.PendingException
@@ -18,3 +18,4 @@ class StepDefs : En {
         }
     }
 }
+
